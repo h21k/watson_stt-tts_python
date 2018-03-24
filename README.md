@@ -1,2 +1,2 @@
 # watson_stt-tts_python
-Python scripts to access IBM Watson endpoints
+Python scripts to access IBM Watson Speech-To-Text (STT) & Text-To-Speech (TTS) endpoints
